@@ -149,7 +149,7 @@ POST /predict-batch
 
 ## **Contributors**
 
-👤 **Your Name** – Diaa Kotb
+👤 – Diaa Kotb -
 
 ---
 
