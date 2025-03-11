@@ -1,0 +1,35 @@
+{
+  "status": "Mode is Trained and ready",
+  "timestamp": "2025-03-11T05:31:18.732374",
+  "classes": [
+    "negative",
+    "positive"
+  ],
+  "evaluation": {
+    "0": {
+      "precision": 0.8324586192975374,
+      "recall": 0.8722504230118443,
+      "f1-score": 0.8518901053501343,
+      "support": 4728.0
+    },
+    "1": {
+      "precision": 0.8786417520594736,
+      "recall": 0.8404766480876418,
+      "f1-score": 0.8591355599214145,
+      "support": 5203.0
+    },
+    "accuracy": 0.8556036652905045,
+    "macro avg": {
+      "precision": 0.8555501856785055,
+      "recall": 0.856363535549743,
+      "f1-score": 0.8555128326357744,
+      "support": 9931.0
+    },
+    "weighted avg": {
+      "precision": 0.8566546559263112,
+      "recall": 0.8556036652905045,
+      "f1-score": 0.8556861077803398,
+      "support": 9931.0
+    }
+  }
+}

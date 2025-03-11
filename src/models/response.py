@@ -1,12 +1,12 @@
 from pydantic import BaseModel
 from typing import List,Dict
 
-class PredictObject(BaseModel):
+class PredictionObject(BaseModel):
     text:str
     prediction:Dict
 
 class PredictionsObject(BaseModel):
-    predictions:List[PredictObject]
+    predictions:List[PredictionObject]
     
 class StatusObject(BaseModel):
     status: str
